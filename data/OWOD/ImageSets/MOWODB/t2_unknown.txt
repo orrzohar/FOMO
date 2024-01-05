@@ -1,0 +1,294 @@
+air conditioner
+airplane
+alligator
+almond
+apple
+appliance
+apricot
+asparagus
+avocado
+banana
+barbecue
+barricade
+bat
+bathtub
+beach chair
+beaver
+bed
+bell pepper
+belt
+binder
+binoculars
+blackberry
+blender
+blinds
+blouse
+blueberry
+bobcat
+book
+book bag
+bookshelf
+boots
+bowtie
+bridge
+briefcase
+broccoli
+building
+bus stop
+bush
+butterfly
+cabbage
+cabinet
+camel
+camera bag
+cantaloupe
+cardigan
+carrot
+cashew
+cauliflower
+celery
+cell phone
+cheetah
+cherry
+chia seed
+chipmunk
+clam
+clock
+closet
+coat
+coconut
+coffee maker
+construction barrier
+construction site
+cooler
+corn
+couch
+cougar
+coyote
+crab
+crocodile
+cucumber
+cup
+curb
+curtain
+curtains
+deer
+desk
+diaper bag
+dining table
+dishwasher
+dolphin
+door
+drainage ditch
+dress
+dresser
+dryer
+duffle bag
+dumpster
+eggplant
+elevator
+escalator
+fan
+fence
+fig
+fire extinguisher
+fireplace
+fish
+flag
+flashlight
+flax seed
+flower
+folder
+food processor
+fountain
+fox
+frog
+fruit
+furniture
+garlic
+gate
+gloves
+goat
+golf cart
+grape
+grapefruit
+grocery bag
+guardrail
+guitar
+hamster
+hat
+helmet
+hill
+hippopotamus
+hyena
+insect
+jacket
+jaguar
+jeans
+jellyfish
+juicer
+kangaroo
+keyboard
+keys
+kiwi
+knife
+koala
+lake
+lamp
+lamp post
+laptop
+laptop bag
+lawn chair
+lawn mower
+lemon
+leopard
+lettuce
+lion
+luggage
+lunch box
+lynx
+macadamia
+mailbox
+makeup bag
+mango
+manhole
+microwave oven
+mirror
+mixer
+monkey
+motorcycle
+mountain
+mouse
+mushroom
+nectarine
+notebook
+ocean
+octopus
+olive
+onion
+opossum
+orange
+otter
+outdoor furniture
+oyster
+painting
+panther
+parking garage
+parking lot
+peach
+peanut
+pear
+pedestrian
+pepper
+pet carrier
+picture
+picture frame
+pig
+pineapple
+pistachio
+plane
+plant
+playground
+playground equipment
+plum
+pocket square
+pomegranate
+porcupine
+potato
+potted plant
+printer
+puma
+pumpkin seed
+purse
+rabbit
+radish
+reptile
+rhinoceros
+rice cooker
+river
+road
+rock
+rollerblades
+rug
+sandals
+scanner
+scarf
+scooter
+seal
+shark
+shirt
+shoes
+shopping bag
+shower
+sidewalk
+sign
+skateboard
+skirt
+skunk
+sleeping bag
+snake
+snowplow
+speakers
+spider
+spinach
+sports equipment
+squirrel
+staircase
+starfish
+starfruit
+statue
+stereo
+stove
+strawberry
+street
+street sign
+street sweeper
+streetlight
+stroller
+structure
+sunflower seed
+sunglasses
+surfboard
+t-shirt
+table
+tablet
+teapot
+teddy bear
+telephone
+television
+television set
+tent
+thermos
+tiger
+toilet
+tomato
+tool
+toolbox
+toy
+traffic barrier
+traffic camera
+traffic cone
+traffic control box
+traffic light pole
+trash can
+tree
+turnip
+turtle
+tv
+tv/monitor
+vacuum cleaner
+vase
+walkie-talkie
+wallet
+walnut
+washing machine
+watch
+water bottle
+watermelon
+whale
+wheelchair
+window
+wine glass
+wolf
+worm
+zucchini

@@ -1,0 +1,22 @@
+Needle Driver
+Scissors
+Clamp
+Grasper
+Hook
+Dilator
+Dilator Skeleton
+Dissector
+Dissector Skeleton
+Probe
+Probe Skeleton
+Forceps
+Forceps Skeleton
+Suture
+Suture Skeleton
+Knife
+Knife Skeleton
+Stapler
+Stapler Skeleton
+Retractor Skeleton
+medical instruments
+objects

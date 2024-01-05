@@ -1,0 +1,44 @@
+knife
+clock
+skis
+baseball glove
+tennis racket
+oven
+book
+sink
+bed
+sports ball
+suitcase
+snowboard
+stop sign
+bottle
+baseball bat
+carrot
+donut
+handbag
+potted plant
+chair
+bench
+fire hydrant
+tie
+wine glass
+cake
+skateboard
+remote
+tv
+keyboard
+spoon
+sandwich
+scissors
+toothbrush
+apple
+frisbee
+hot dog
+teddy bear
+toilet
+hair drier
+cell phone
+couch
+fork
+bowl
+surfboard

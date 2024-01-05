@@ -1,0 +1,107 @@
+apple
+backpack
+banana
+barn
+baseball
+basketball
+beach
+bear
+bed
+bench
+bike
+book
+bowl
+bowling ball
+bridge
+building
+bush
+butterfly
+can
+cell phone
+clock
+cloud
+cup
+dinosaur
+dishwasher
+doll
+elephant
+electronics
+fence
+fire hydrant
+fish
+flower
+fork
+food
+fountain
+frisbee
+frog
+garbage can
+giraffe
+goat
+golf ball
+hairdryer
+hat
+handbag
+house
+human
+insect
+kite
+knife
+lake
+laptop
+lion
+mailbox
+microwave
+monkey
+moon
+mountain
+mouse
+ocean
+orange
+oven
+parking meter
+pizza
+planet
+plate
+pool ball
+refrigerator
+river
+road
+rock
+rugby ball
+sandwich
+scissors
+shed
+shoe
+sign
+sink
+skateboard
+skis
+snake
+snowboard
+soccer ball
+spoon
+sports ball
+star
+stop sign
+stove
+suitcase
+surfboard
+teddy bear
+tennis ball
+tiger
+toaster
+toilet
+toothbrush
+toy
+traffic light
+tree
+truck
+umbrella
+vase
+washing machine
+wine glass
+zebra
+object
+small object
+big object

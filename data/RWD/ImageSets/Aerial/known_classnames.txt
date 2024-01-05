@@ -1,0 +1,10 @@
+airplane
+airport
+basketballcourt
+dam
+golffield
+groundtrackfield
+ship
+stadium
+storagetank
+vehicle

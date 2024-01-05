@@ -1,0 +1,241 @@
+air conditioner
+airplane
+apple
+avocado
+balcony
+ball
+banana
+barbecue
+baseball bat
+baseball glove
+basket
+bathtub
+beach
+bee
+bike rack
+binoculars
+birdhouse
+blender
+blimp
+blinds
+bollard
+bookshelf
+bottle
+bowl
+box
+bridge
+broccoli
+broom
+bucket
+building
+bus shelter
+bus stop
+bush
+butterfly
+cabinet
+cabinets
+cake
+camera
+can
+can opener
+cantaloupe
+carrot
+cctv camera
+cell phone
+chairs
+clock
+cloud
+coat
+coat rack
+coffee machine
+coffee table
+container
+couch
+countertop
+cup
+cupboard
+curtain
+deer
+desk
+dishwasher
+doll
+dolphin
+donut
+door
+doormat
+dragonfly
+dresser
+drill
+dryer
+elevator
+escalator
+fan
+fence
+fire extinguisher
+fireplace
+fish
+flag
+flagpole
+flower
+flower bed
+flower pot
+fork
+fountain
+fox
+fridge
+frisbee
+frog
+game console
+garage
+garden
+glove
+goat
+graffiti
+grapes
+grass
+hair dryer
+hammer
+hat
+headphones
+helicopter
+hill
+hose
+hot air balloon
+hot dog
+insect
+iron
+jewelry
+keyboard
+kite
+kiwi
+knife
+ladle
+lake
+lamp
+lamppost
+laptop
+light fixture
+lion
+lizard
+mailbox
+mango
+mat
+mirror
+monkey
+monument
+moon
+mop
+motorcycle
+mountain
+mouse
+nightstand
+ocean
+orange
+painting
+park
+patio
+pear
+picnic table
+picture frame
+pig
+pineapple
+pizza
+plane
+planet
+plant
+plant pot
+plate
+playground
+pliers
+pool table
+printer
+rabbit
+rake
+remote control
+river
+road
+rock
+rocket
+rollerblades
+rolling pin
+roof
+rug
+safe
+sand
+sandwich
+satellite
+saw
+scanner
+scissors
+scooter
+screwdriver
+segway
+shark
+shoe
+shoe rack
+shoes
+shovel
+shower
+shower curtain
+sidewalk
+sign
+skate
+skateboard
+ski
+skis
+smoke detector
+snake
+snow
+snowboard
+spacecraft
+spatula
+speaker
+spider
+spoon
+sports ball
+squirrel
+staircase
+star
+statue
+stool
+stove
+strawberry
+stream
+street art
+street lamp
+street light
+street sign
+streetlight
+subway
+sun
+sunglasses
+surfboard
+table
+tape measure
+teddy bear
+telephone booth
+television
+tennis racket
+tiger
+toy
+tram
+trash can
+tree
+tricycle
+turtle
+tv
+vacuum cleaner
+valley
+vase
+vending machine
+wall
+washing machine
+water fountain
+watermelon
+whale
+wheelchair
+whisk
+window
+wine glass
+wine rack
+wrench

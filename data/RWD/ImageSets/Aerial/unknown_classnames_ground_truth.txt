@@ -1,0 +1,11 @@
+baseballfield
+overpass
+chimney
+trainstation
+Expressway-toll-station
+bridge
+windmill
+tenniscourt
+harbor
+Expressway-Service-area
+object

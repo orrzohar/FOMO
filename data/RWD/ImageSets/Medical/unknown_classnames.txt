@@ -1,0 +1,53 @@
+Carpal bones
+Scaphoid
+Lunate
+Triquetrum
+Pisiform
+Trapezium
+Trapezoid
+Capitate
+Hamate
+Metatarsal bones
+First metatarsal
+Second metatarsal
+Third metatarsal
+Fourth metatarsal
+Fifth metatarsal
+Interphalangeal joints
+Proximal interphalangeal joint
+Distal interphalangeal joint
+Pelvis
+Sacrum
+Coccyx
+Femur
+Patella
+Tibia
+Fibula
+Humerus
+Radius
+Ulna
+Clavicle
+Scapula
+Vertebrae
+Cervical vertebrae
+Thoracic vertebrae
+Lumbar vertebrae
+Sacral vertebrae
+Ribs
+Head
+Neck
+Shoulders
+Arms
+Forearms
+Hands
+Fingers
+Chest
+Abdomen
+Hips
+Thighs
+Legs
+Knees
+Ankles
+Feet
+Toes
+object

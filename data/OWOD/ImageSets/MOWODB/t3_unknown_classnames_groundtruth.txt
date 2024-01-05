@@ -1,0 +1,20 @@
+remote
+bowl
+mouse
+scissors
+hair drier
+knife
+fork
+cup
+book
+bed
+vase
+keyboard
+wine glass
+spoon
+laptop
+toothbrush
+teddy bear
+cell phone
+clock
+toilet

@@ -1,0 +1,17 @@
+bottle
+wine glass
+knife
+clock
+teddy bear
+book
+hair drier
+remote
+tv
+keyboard
+cell phone
+spoon
+couch
+fork
+bowl
+scissors
+toothbrush

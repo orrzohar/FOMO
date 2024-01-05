@@ -1,0 +1,21 @@
+harbor
+bridge
+railway station
+highway
+solar farm
+wind turbine
+oilfield
+parkinglot
+industrial area
+urban area
+farmland
+forest
+river
+lake
+coastline
+container port
+military base
+university campus
+hospital
+construction site
+object
