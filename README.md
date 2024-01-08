@@ -1,6 +1,6 @@
 # Open World Object Detection in the Era of Foundation Models (neurIPS 2023)
 
-[`arXiv`](https://arxiv.org/abs/2212.01424) 
+[`arXiv`](https://arxiv.org/abs/2312.05745) 
 [`website`](https://orrzohar.github.io/projects/fomo/)
 
 #### [Orr Zohar](https://orrzohar.github.io/), [Alejandro Lozano](https://www.linkedin.com/in/ale9806/), [Shelly Goel](https://www.linkedin.com/in/shelly-goel-2023/), [Serena Yeung](https://marvl.stanford.edu/people.html), [Jackson Wang](https://wangkua1.github.io/)
