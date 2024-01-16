@@ -1,4 +1,4 @@
-# Open World Object Detection in the Era of Foundation Models (neurIPS 2023)
+# Open World Object Detection in the Era of Foundation Models
 
 [`arXiv`](https://arxiv.org/abs/2312.05745) 
 [`website`](https://orrzohar.github.io/projects/fomo/)
